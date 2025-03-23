@@ -1,8 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Lovkash Garg</h1>
 <h3 align="center">A passionate Developer studing at IIIT Pune , 3rd Year BTECH CSE. I have a great knowledge of MERN , Machine Learning and is OPEN TO WORK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovkashgarg&label=Profile%20views&color=0e75b6&style=flat" alt="lovkashgarg" /> </p>
 
+<h3 align="center">Visit my Leetcode Profile at https://leetcode.com/u/Lovkash_2905/ </h1>
 - 🔭 I’m currently working on **ESUMMIT WEBSITE 2024**
 
 - 🌱 I’m currently learning **Data Stucture and Algorithms by Take You forward.**
