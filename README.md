@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovkashgarg&label=Profile%20views&color=0e75b6&style=flat" alt="lovkashgarg" /> </p>
 
 <h3 align="center">Visit my Leetcode Profile at https://leetcode.com/u/Lovkash_2905/ </h1>
-- 🔭 I worked on **ESUMMIT WEBSITE 2024** where we got 2000 Impressions and 500 + verified Logins . 
+- 🔭 I worked on ESUMMIT WEBSITE 2024 where we got 2000 Impressions and 500 + verified Logins . 
 
 - 🌱 I’m currently learning **Data Stucture and Algorithms by Take You forward.**
 
