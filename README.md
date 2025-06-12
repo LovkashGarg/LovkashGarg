@@ -1,6 +1,7 @@
 <h1 align="center">
- <div class="tenor-gif-embed" data-postid="14999877618442267107" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107">Hand Waving Hand Sticker</a>from <a href="https://tenor.com/search/hand-stickers">Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> Hi, I’m <span style="color:#FF4081;"><strong>Lovkash Garg</strong></span>
+  <img src="https://media.giphy.com/media/xUPGcjlGJ6wGue0hOQ/giphy.gif" width="40" alt="waving hand" /> Hi, I’m <span style="color:#FF4081;"><strong>Lovkash Garg</strong></span>
 </h1>
+
 
 
 <h3 align="center">3rd-Year B.Tech CSE @ IIIT Pune | MERN & ML Enthusiast | Open to Work</h3>
