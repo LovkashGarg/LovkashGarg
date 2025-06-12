@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hey there 👋, I’m <span style="color:#FF4081;"><strong>Lovkash Garg</strong></span>
+  Hi👋, I’m <span style="color:#FF4081;"><strong>Lovkash Garg</strong></span>
 </h1>
 
 <h3 align="center">3rd-Year B.Tech CSE @ IIIT Pune | MERN & ML Enthusiast | Open to Work</h3>
-
+- 🌱 I’m currently brushing my problem solving skills with **Data Stucture and Algorithms **
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6" />
