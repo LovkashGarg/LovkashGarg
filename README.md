@@ -9,9 +9,15 @@
   <a href="https://leetcode.com/u/Lovkash_2905/">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%230053ff.svg?style=flat&logo=leetcode&logoColor=white"/>
   </a>
+   <a href="https://www.linkedin.com/in/lovkash-garg/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://lovkash-garg-portfolio.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF4081.svg?style=flat&logo=googlechrome&logoColor=white"/>
+  </a>
   &nbsp;&nbsp;
   <a href="mailto:lovkashgarg@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"/>
+    <img alt="Hire" src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
