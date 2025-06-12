@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">3rd-Year B.Tech CSE @ IIIT Pune | MERN & ML Enthusiast | Open to Work</h3>
-- 🌱 I’m currently brushing my problem solving skills with **Data Stucture and Algorithms **
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6" />
@@ -28,6 +28,8 @@
 
 ## 🌟 About Me
 I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 8.97, Class of ’26) who loves building **scalable web apps** and diving into **machine learning** algorithms. I thrive in fast-paced environments, contribute actively in team hackathons, and have a knack for turning ideas into polished, user-friendly products.
+
+- 🌱 I’m currently brushing my problem solving skills with **Data Stucture and Algorithms **
 
 ---
 ## 🎓 Education
