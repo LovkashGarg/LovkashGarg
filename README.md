@@ -56,17 +56,6 @@ _Nov 2023 – Present_
 
 ---
 
-## 🛠 Technical Skills
-
-| **Languages**                  | C, C++, JavaScript (ES6), TypeScript, Python, Java, SQL, HTML5 |
-| ------------------------------ | ------------------------------------------------------------- |
-| **Frameworks & Libraries**     | React.js, Next.js, Redux Toolkit, Express.js, Socket.io       |
-| **Styling & Design**           | Tailwind CSS, Bootstrap, Figma                                |
-| **Databases & Hosting**        | MongoDB Atlas, PostgreSQL, MySQL, AWS EC2, Vercel             |
-| **Dev Tools & CI/CD**          | Git, VS Code, Docker, Postman, JupyterLab                    |
-
----
-
 ## 🏆 Achievements
 
 - ⭐ **Top 5.5%** “Knight” on LeetCode & **3★** on CodeChef  
