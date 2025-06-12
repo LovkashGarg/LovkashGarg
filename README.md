@@ -1,22 +1,99 @@
+<h1 align="center">Hi 👋, I’m **Lovkash Garg**</h1>
+<h3 align="center">3rd-Year B.Tech CSE @ IIIT Pune | MERN & ML Enthusiast | Open to Work</h3>
 
-<h1 align="center">Hi 👋, I'm Lovkash Garg</h1>
-<h3 align="center">A passionate Developer studing at IIIT Pune , 3rd Year BTECH CSE. I have a great knowledge of MERN , Machine Learning and is OPEN TO WORK.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lovkashgarg&label=Profile%20views&color=0e75b6&style=flat" alt="lovkashgarg" /> </p>
-
-<h3 align="center">Visit my Leetcode Profile at https://leetcode.com/u/Lovkash_2905/ </h1>
-- 🔭 I worked on ESUMMIT WEBSITE 2024 where we got 2000 Impressions and 500 + verified Logins . 
-
-- 🌱 I’m currently learning **Data Stucture and Algorithms by Take You forward.**
-
-- 📫 How to reach me **lovkashgarg@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@garglovkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@garglovkash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Lovkash_2905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lovkashgarg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aggarwalloce10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aggarwalloce10" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Lovkash_2905/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%230053ff.svg?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lovkashgarg@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 🌟 About Me
+I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 8.97, Class of ’26) who loves building **scalable web apps** and diving into **machine learning** algorithms. I thrive in fast-paced environments, contribute actively in team hackathons, and have a knack for turning ideas into polished, user-friendly products.
+
+---
+
+## 💼 Experience
+
+**Co-Head, Web Department & Developer** — Ecell, IIIT Pune  
+_Nov 2023 – Present_  
+- Spearheaded the responsive redesign of the E-Summit ’24 website with **Next.js** & **Tailwind CSS**, driving **2,000+ impressions** & **500+ verified logins**.  
+- Managed CI/CD on **Vercel**, integrated custom domains via GoDaddy, and orchestrated a **MongoDB Atlas** backend in an Agile workflow.
+
+---
+
+## 🚀 Projects
+
+### **FusionSpace** • React.js · Node.js · Socket.io · MongoDB  
+*Jan 2025*  
+- Built a real-time collaborative workspace using **WebSockets** and **Gemini**, supporting simultaneous editing for 10+ users with <10% conflict rate.  
+- Implemented file operations (create/edit/delete/download) and a seamless code-generation assistant.
+
+### **Acoustic Guard** • Python · Librosa · ANN  
+*Jun 2024*  
+- Designed an audio-based anomaly detector by slicing environmental recordings into 30s clips, extracting MFCC features, and training an **ANN** on 8,500+ samples.  
+- Automated real-time alerts and closed security gaps in HR monitoring workflows.
+
+### **EduHome** • React.js · ZegoCloud · Socket.io · Tailwind CSS  
+*Mar 2024*  
+- Developed a full-featured e-learning platform with course purchases, mock tests, and live video classes.  
+- Integrated an in-app compiler and **ZegoCloud** video calls, boosting platform reliability by 20%.
+
+---
+
+## 🛠 Technical Skills
+
+| **Languages**                  | C, C++, JavaScript (ES6), TypeScript, Python, Java, SQL, HTML5 |
+| ------------------------------ | ------------------------------------------------------------- |
+| **Frameworks & Libraries**     | React.js, Next.js, Redux Toolkit, Express.js, Socket.io       |
+| **Styling & Design**           | Tailwind CSS, Bootstrap, Figma                                |
+| **Databases & Hosting**        | MongoDB Atlas, PostgreSQL, MySQL, AWS EC2, Vercel             |
+| **Dev Tools & CI/CD**          | Git, VS Code, Docker, Postman, JupyterLab                    |
+
+---
+
+## 🏆 Achievements
+
+- ⭐ **Top 5.5%** “Knight” on LeetCode & **3★** on CodeChef  
+- 🥇 Finalist, BlueBit-PRAXIS ’24 Hackathon (90+ teams)  
+- 🥉 Placed in Top 22 teams out of 5,000+ at UBS Hackathon ’25  
+- 🌐 Global Rank **#543** in LeetCode Biweekly Contest  
+- 🧑‍💻 Contributor, GSSoC 2024 Open-Source Projects
+
+---
+
+## 🎓 Education
+
+**IIIT Pune** — B.Tech in Computer Science & Engineering  
+_Jul 2022 – Jun 2026_ • CGPA: **8.97/10**  
+
+_Completing coursework in Data Structures & Algorithms, OOP, OS, DBMS, and Computer Networks._
+
+---
+
+## 📬 Let’s Connect!
+
+<p align="left">
+  <a href="https://github.com/LovkashGarg" target="_blank">  
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/lovkash-garg/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://lovkash-garg-portfolio.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF4081.svg?style=flat&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
