@@ -37,25 +37,6 @@ _Nov 2023 – Present_
 
 ---
 
-## 🚀 Projects
-
-### **FusionSpace** • React.js · Node.js · Socket.io · MongoDB  
-*Jan 2025*  
-- Built a real-time collaborative workspace using **WebSockets** and **Gemini**, supporting simultaneous editing for 10+ users with <10% conflict rate.  
-- Implemented file operations (create/edit/delete/download) and a seamless code-generation assistant.
-
-### **Acoustic Guard** • Python · Librosa · ANN  
-*Jun 2024*  
-- Designed an audio-based anomaly detector by slicing environmental recordings into 30s clips, extracting MFCC features, and training an **ANN** on 8,500+ samples.  
-- Automated real-time alerts and closed security gaps in HR monitoring workflows.
-
-### **EduHome** • React.js · ZegoCloud · Socket.io · Tailwind CSS  
-*Mar 2024*  
-- Developed a full-featured e-learning platform with course purchases, mock tests, and live video classes.  
-- Integrated an in-app compiler and **ZegoCloud** video calls, boosting platform reliability by 20%.
-
----
-
 ## 🏆 Achievements
 
 - ⭐ **Top 5.5%** “Knight” on LeetCode & **3★** on CodeChef  
