@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/xUPGcjlGJ6wGue0hOQ/giphy.gif" width="40" alt="waving hand" /> Hi, I’m <span style="color:#FF4081;"><strong>Lovkash Garg</strong></span>
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40" alt="waving hand" /> Hi, I’m <span style="color:#FF4081;"><strong>Lovkash Garg</strong></span>
 </h1>
 
 
