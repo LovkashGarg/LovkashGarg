@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I’m **Lovkash Garg**</h1>
+<h1 align="center">
+  Hey there 👋, I’m <span style="color:#FF4081;"><strong>Lovkash Garg</strong></span>
+</h1>
+
 <h3 align="center">3rd-Year B.Tech CSE @ IIIT Pune | MERN & ML Enthusiast | Open to Work</h3>
 
 <p align="center">
@@ -27,6 +30,14 @@
 I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 8.97, Class of ’26) who loves building **scalable web apps** and diving into **machine learning** algorithms. I thrive in fast-paced environments, contribute actively in team hackathons, and have a knack for turning ideas into polished, user-friendly products.
 
 ---
+## 🎓 Education
+
+**IIIT Pune** — B.Tech in Computer Science & Engineering  
+_Jul 2022 – Jun 2026_ • CGPA: **8.97/10**  
+
+_Completing coursework in Data Structures & Algorithms, OOP, OS, DBMS, and Computer Networks._
+
+---
 
 ## 💼 Experience
 
@@ -44,15 +55,6 @@ _Nov 2023 – Present_
 - 🥉 Placed in Top 22 teams out of 5,000+ at UBS Hackathon ’25  
 - 🌐 Global Rank **#543** in LeetCode Biweekly Contest  
 - 🧑‍💻 Contributor, GSSoC 2024 Open-Source Projects
-
----
-
-## 🎓 Education
-
-**IIIT Pune** — B.Tech in Computer Science & Engineering  
-_Jul 2022 – Jun 2026_ • CGPA: **8.97/10**  
-
-_Completing coursework in Data Structures & Algorithms, OOP, OS, DBMS, and Computer Networks._
 
 ---
 
