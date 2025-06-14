@@ -79,6 +79,7 @@ _Nov 2023 – Present_
   </a>
 </p>
 
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
