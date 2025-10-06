@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">3rd-Year B.Tech CSE @ IIIT Pune | MERN & ML Enthusiast | Open to Work</h3>
+<h3 align="center">SDE Intern @Amazon | 4th-Year B.Tech CSE @ IIIT Pune | MERN & ML Enthusiast | Open to Work</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6">
