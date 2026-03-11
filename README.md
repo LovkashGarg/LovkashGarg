@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 About Me
-I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 8.97, Class of ’26) who loves building **scalable web apps** and diving into **machine learning** algorithms. I thrive in fast-paced environments, contribute actively in team hackathons, and have a knack for turning ideas into polished, user-friendly products.
+I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 9.08, Class of ’26) who loves building **scalable web apps** and diving into **machine learning** algorithms. I thrive in fast-paced environments, contribute actively in team hackathons, and have a knack for turning ideas into polished, user-friendly products.
 
 - 🌱 I’m currently brushing my problem solving skills with Data Stucture and Algorithms.
 
