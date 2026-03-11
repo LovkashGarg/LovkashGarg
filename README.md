@@ -17,7 +17,7 @@
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Lovkash_2905/">
+  <a href="https://leetcode.com/u/LovkashX/">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%230053ff.svg?style=flat&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://lovkash-garg-portfolio.vercel.app/" target="_blank">
