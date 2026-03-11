@@ -40,7 +40,7 @@ I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 8.97, Class 
 ## 🎓 Education
 
 **IIIT Pune** — B.Tech in Computer Science & Engineering  
-_Jul 2022 – Jun 2026_ • CGPA: **8.97/10**  
+_Jul 2022 – Jun 2026_ • CGPA: **9.08/10**  
 
 _Completing coursework in Data Structures & Algorithms, OOP, OS, DBMS, and Computer Networks._
 
