@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">Software Developer | Ex-SDE Intern @Amazon | IIIT Pune ’2026 CSE | Backend, AWS, Distributed Systems | Finalist UBS Hackathon 2025 & PRAXIS BLUEBIT 2024|GSSOC Contributor | Pupil @Codeforces (1238) | Knight @Leetcode | 3 ⭐ @Codechef </h3>
+<h3 align="center">Software Developer | Ex-SDE Intern @Amazon | IIIT Pune ’2026 CSE | Backend, AWS, Distributed Systems | Finalist UBS Hackathon 2025 & PRAXIS BLUEBIT 2024 | GSSOC Contributor | Pupil @Codeforces (1238) | Knight @Leetcode | 3 ⭐ @Codechef </h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6">
