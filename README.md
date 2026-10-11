@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">Software Developer | Ex-SDE Intern @Amazon | IIIT Pune ’2026 CSE | Backend, AWS, Distributed Systems | Finalist UBS Hackathon 2025 & PRAXIS BLUEBIT 2024 | GSSOC Contributor | Pupil @Codeforces (1238) | Knight @Leetcode | 3 ⭐ @Codechef </h3>
+<h3 align="center">Software Developer @Amazon | Ex-SDE Intern @Amazon | IIIT Pune ’2026 CSE | Backend, AWS, Distributed Systems | Finalist UBS Hackathon 2025 & PRAXIS BLUEBIT 2024 | GSSOC Contributor | @Codeforces (1395) | Knight @Leetcode | 3 ⭐ @Codechef </h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lovkashgarg&style=flat&color=0e75b6">
@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 About Me
-I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 9.08, Class of ’26) who loves building **scalable web apps** and diving into **machine learning** algorithms. I thrive in fast-paced environments, contribute actively in team hackathons, and have a knack for turning ideas into polished, user-friendly products.
+I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 9.04, Class of ’26) who loves building **scalable web apps** and diving into **machine learning** algorithms. I thrive in fast-paced environments, contribute actively in team hackathons, and have a knack for turning ideas into polished, user-friendly products.
 
 - 🌱 I’m currently brushing my problem solving skills with Data Stucture and Algorithms.
 
@@ -40,7 +40,7 @@ I’m a passionate **Computer Science** student at IIIT Pune (CGPA: 9.08, Class 
 ## 🎓 Education
 
 **IIIT Pune** — B.Tech in Computer Science & Engineering  
-_Jul 2022 – Jun 2026_ • CGPA: **9.08/10**  
+_Jul 2022 – Jun 2026_ • CGPA: **9.04/10**  
 
 _Completing coursework in Data Structures & Algorithms, OOP, OS, DBMS, and Computer Networks._
 
